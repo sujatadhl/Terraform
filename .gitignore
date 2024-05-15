@@ -1,0 +1,9 @@
+EC2-creation/.terraform/
+EC2-creation/.terraform.lock.hcl
+VPC/.terraform/
+VPC/terraform.tfstate
+VPC/.terraform.lock.hcl
+
+
+
+
