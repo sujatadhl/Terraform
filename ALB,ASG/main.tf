@@ -148,7 +148,7 @@ resource "aws_lb_target_group" "sujata-tg" {
 
 resource "aws_lb_target_group_attachment" "sujata_tg_attach" {
   target_group_arn = aws_lb_target_group.sujata-tg.arn
-  target_id        =  aws_autoscaling_attachment..id
+  target_id        =  aws_autoscaling_attachment.id
   port             = 80
 }
 
