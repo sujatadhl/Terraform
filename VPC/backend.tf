@@ -4,3 +4,4 @@ terraform {
     key            = "<account_id>/<state_key>.tfstate"
     bucket         = "8586-terraform-state"
   }
+}

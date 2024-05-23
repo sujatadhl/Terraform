@@ -11,6 +11,15 @@ RDS/.terraform/
 RDS/.vscode/
 RDS/.terraform.lock.hcl
 
+Configuring EC2 instance using ansible/.vscode
+Configuring EC2 instance using ansible/Terraform/.terraform
+Configuring EC2 instance using ansible/Terraform/.terraform.lock.hcl
+
+
+
+
+
+
 
 
 
